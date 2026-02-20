@@ -1,0 +1,13 @@
+Data shape: (4128, 21)
+Total missing values: 0
+Duplicate rows: 0
+
+Class distribution (ProdTaken):
+ProdTaken
+0    3331
+1     797
+
+Class distribution (%):
+ProdTaken
+0    80.69
+1    19.31

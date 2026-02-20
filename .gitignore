@@ -1,0 +1,4 @@
+
+# Ignore large model files
+*.h5
+examples/*.h5

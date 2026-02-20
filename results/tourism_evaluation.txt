@@ -1,0 +1,21 @@
+Best Model: RandomForest
+Threshold: 0.22
+
+Accuracy: 0.877907
+Precision (1): 0.630824
+Recall (1): 0.884422
+F1-score (1): 0.736402
+
+Confusion Matrix:
+[[730 103]
+ [ 23 176]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.88      0.92       833
+           1       0.63      0.88      0.74       199
+
+    accuracy                           0.88      1032
+   macro avg       0.80      0.88      0.83      1032
+weighted avg       0.90      0.88      0.89      1032
